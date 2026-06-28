@@ -1,0 +1,4 @@
+
+# gemini-cli settings and local logs
+.gemini/
+gha-creds-*.json
