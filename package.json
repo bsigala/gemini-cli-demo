@@ -1,0 +1,19 @@
+{
+  "name": "gemini-cli-demo",
+  "version": "1.0.0",
+  "description": "An elite-level top-tier optimized demo of the Gemini CLI integration with GitHub workflows",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node --test index.test.js"
+  },
+  "keywords": [
+    "gemini",
+    "gemini-cli",
+    "github-actions",
+    "automation",
+    "ai"
+  ],
+  "author": "Benjamin Sigala",
+  "license": "MIT"
+}

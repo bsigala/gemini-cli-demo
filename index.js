@@ -1,1 +1,3 @@
-function calculate(x) { return x * 2 }
+export function calculate(x) {
+  return x * 2;
+}
